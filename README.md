@@ -1,3 +1,7 @@
+# ビルドガイド（執筆中）
+https://github.com/telzo2000/cool943S/blob/main/buildguide_for_cool943S.md
+<br>
+
 # cool943S開発計画
 ☑︎アクリルケースの設計<br>
 ☑︎ファームウェアの用意<br>
